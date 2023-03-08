@@ -1,0 +1,50 @@
+{
+"id" : 1, {
+"Task":Купить машину,
+"author":"Антон",
+"adding time":"10:09"
+"adding date":"08:03:2023"
+"deadline":"19.05"
+"priority":"наивысший приоритет"
+}
+}
+{
+"id" : 2, {
+"Task":Задача 1,
+"author":"неизвестный",
+"adding time":"10:09"
+"adding date":"08:03:2023"
+"deadline":"бессрочно"
+"priority":"приоритет не установлен"
+}
+}
+{
+"id" : 3, {
+"Task":Пригласить друзей,
+"author":"Антон",
+"adding time":"10:09"
+"adding date":"08:03:2023"
+"deadline":"19.05"
+"priority":"наивысший приоритет"
+}
+}
+{
+"id" : 4, {
+"Task":Купить торт,
+"author":"Антон",
+"adding time":"10:09"
+"adding date":"08:03:2023"
+"deadline":"19.05"
+"priority":"приоритет низкий"
+}
+}
+{
+"id" : 5, {
+"Task":Приготовить сюрприз,
+"author":"Антон",
+"adding time":"10:09"
+"adding date":"08:03:2023"
+"deadline":"19.05"
+"priority":"средний приоритет"
+}
+}
